@@ -2,124 +2,78 @@
 
 # Mohammed Jafar
 
-### Full-Stack Web Developer • IT Support • Future DevOps Engineer
+### Full-Stack Developer • Building Premium Digital Experiences
 
-Building modern, high-performance digital experiences that help businesses build trust, improve customer experience, and grow online.
+Building fast, scalable, and modern web applications that help businesses grow through thoughtful design, performance, and technology.
 
-[Portfolio](YOUR_PORTFOLIO_URL) •
-[LinkedIn](YOUR_LINKEDIN_URL) •
-[GitHub](https://github.com/cyber-hack789) •
+<br>
+
+[Portfolio](https://yourportfolio.com) •
+[LinkedIn](https://linkedin.com/in/yourprofile) •
 [Email](mailto:muhammedjafarshaikh30@gmail.com)
 
 </div>
 
 ---
 
-# About Me
+## Philosophy
 
-I'm a **Full-Stack Web Developer** from **Bhatkal, Karnataka, India**, passionate about creating fast, scalable, and user-focused web applications.
+I believe great software isn't measured by the technologies behind it, but by the value it creates.
 
-I enjoy solving real-world business problems through clean architecture, modern technologies, and thoughtful user experiences. Alongside web development, I have practical experience in **IT Support, Linux administration, networking, and business operations**, giving me a broader perspective when building digital products.
-
-I believe great software should not only look good—it should deliver measurable value, strengthen brands, and improve customer experiences.
+Every project I build is focused on solving real business problems through clean architecture, modern design, and exceptional user experience.
 
 ---
 
-# What I Do
+## Selected Expertise
 
-- Build modern business websites
-- Develop scalable web applications
-- Create responsive UI with premium UX
-- Design REST APIs
-- Performance optimization
-- SEO-friendly development
-- Authentication & Security
-- Deployment & Production Support
-- Linux & Networking
-- IT Infrastructure Support
+```text
+Frontend        React • Next.js • TypeScript • Tailwind CSS
 
----
+Backend         Node.js • Express.js • REST APIs • JWT
 
-# Tech Stack
+Database        MongoDB • MySQL
 
-## Frontend
+UI / Motion     Framer Motion • GSAP
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge)
+Systems         Linux • Networking • IT Support
+
+Tools           Git • GitHub • Vercel • Postman
+```
 
 ---
 
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-
----
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-
----
-
-## Systems
-
-- Linux
-- Networking
-- IT Support
-- System Administration
-- Hardware Troubleshooting
-
----
-
-# Featured Projects
+## Featured Work
 
 ### Premium Personal Portfolio
 
-A modern portfolio built with React, Framer Motion, GSAP, and smooth interactions focused on premium UI/UX and performance.
+A cinematic developer portfolio focused on storytelling, premium UI/UX, and smooth interactions.
 
 ---
 
 ### Real Estate Marketplace
 
-A full-stack property platform featuring authentication, dashboards, image uploads, property management, and responsive design.
+A scalable property platform with authentication, dashboards, payments, image management, and responsive UI.
 
 ---
 
-### Business Website
+### Business Websites
 
-A high-performance business website built to improve credibility, user engagement, and lead generation.
+Helping businesses build trust with fast, modern, SEO-friendly websites.
 
 ---
 
-# Currently Learning
+## Currently Exploring
 
-- Advanced Next.js
 - DevOps
 - Docker
+- Kubernetes
 - CI/CD
 - AWS
-- Kubernetes
-- Linux Administration
+- System Design
 
 ---
 
-# GitHub Stats
+## GitHub Analytics
 
 <p align="center">
 
@@ -131,14 +85,8 @@ A high-performance business website built to improve credibility, user engagemen
 
 ---
 
-# Let's Connect
+<div align="center">
 
-If you're looking for a developer who values clean code, thoughtful design, and business-focused solutions, I'd be happy to connect.
+*"Build products that people enjoy using."*
 
-📧 muhammedjafarshaikh30@gmail.com
-
-🌐 Portfolio: YOUR_PORTFOLIO_URL
-
-💼 LinkedIn: YOUR_LINKEDIN_URL
-
-⭐ Thanks for visiting my GitHub profile!
+</div>
