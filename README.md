@@ -9,7 +9,7 @@ Building fast, scalable, and modern web applications that help businesses grow t
 <br>
 
 [Portfolio](https://yourportfolio.com) •
-[LinkedIn](https://linkedin.com/in/yourprofile) •
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammad-jafar-shaikh-716a67342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) •
 [Email](mailto:muhammedjafarshaikh30@gmail.com)
 
 </div>
