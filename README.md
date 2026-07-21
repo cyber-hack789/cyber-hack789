@@ -1,9 +1,144 @@
-<h1 align="center">Hi 👋, I'm Mohammed Jafar</h1>
-<h3 align="center">A passionate frontend developer & cyber security from India</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# Mohammed Jafar
+
+### Full-Stack Web Developer • IT Support • Future DevOps Engineer
+
+Building modern, high-performance digital experiences that help businesses build trust, improve customer experience, and grow online.
+
+[Portfolio](YOUR_PORTFOLIO_URL) •
+[LinkedIn](YOUR_LINKEDIN_URL) •
+[GitHub](https://github.com/cyber-hack789) •
+[Email](mailto:muhammedjafarshaikh30@gmail.com)
+
+</div>
+
+---
+
+# About Me
+
+I'm a **Full-Stack Web Developer** from **Bhatkal, Karnataka, India**, passionate about creating fast, scalable, and user-focused web applications.
+
+I enjoy solving real-world business problems through clean architecture, modern technologies, and thoughtful user experiences. Alongside web development, I have practical experience in **IT Support, Linux administration, networking, and business operations**, giving me a broader perspective when building digital products.
+
+I believe great software should not only look good—it should deliver measurable value, strengthen brands, and improve customer experiences.
+
+---
+
+# What I Do
+
+- Build modern business websites
+- Develop scalable web applications
+- Create responsive UI with premium UX
+- Design REST APIs
+- Performance optimization
+- SEO-friendly development
+- Authentication & Security
+- Deployment & Production Support
+- Linux & Networking
+- IT Infrastructure Support
+
+---
+
+# Tech Stack
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge)
+
+---
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+
+---
+
+## Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+---
+
+## Systems
+
+- Linux
+- Networking
+- IT Support
+- System Administration
+- Hardware Troubleshooting
+
+---
+
+# Featured Projects
+
+### Premium Personal Portfolio
+
+A modern portfolio built with React, Framer Motion, GSAP, and smooth interactions focused on premium UI/UX and performance.
+
+---
+
+### Real Estate Marketplace
+
+A full-stack property platform featuring authentication, dashboards, image uploads, property management, and responsive design.
+
+---
+
+### Business Website
+
+A high-performance business website built to improve credibility, user engagement, and lead generation.
+
+---
+
+# Currently Learning
+
+- Advanced Next.js
+- DevOps
+- Docker
+- CI/CD
+- AWS
+- Kubernetes
+- Linux Administration
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cyber-hack789&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-hack789&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+# Let's Connect
+
+If you're looking for a developer who values clean code, thoughtful design, and business-focused solutions, I'd be happy to connect.
+
+📧 muhammedjafarshaikh30@gmail.com
+
+🌐 Portfolio: YOUR_PORTFOLIO_URL
+
+💼 LinkedIn: YOUR_LINKEDIN_URL
+
+⭐ Thanks for visiting my GitHub profile!
