@@ -123,7 +123,8 @@ A high-performance business website built to improve credibility, user engagemen
 
 <p align="center">
 
-<img height="170" src="[https://github-readme-stats.vercel.app/api?username=cyber-hack789&show_icons=true&theme=transparent&hide_border=true](https://sasiddique.com/portfolio/)"/>
+<img width="433" height="728" alt="sandalwood" src="https://github.com/user-attachments/assets/713e1fba-8338-4ddc-a1c5-06fc995eaf22" />
+
 
 <img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-hack789&layout=compact&theme=transparent&hide_border=true](https://sandalwoodestate.in/)"/>
 
