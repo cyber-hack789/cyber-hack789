@@ -7,7 +7,7 @@
 Building modern, high-performance digital experiences that help businesses build trust, improve customer experience, and grow online.
 
 [Portfolio](YOUR_PORTFOLIO_URL) •
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohammad-jafar-shaikh-716a67342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) •
+[LinkedIn](https://www.linkedin.com/in/mohammad-jafar-shaikh-716a67342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) •
 [GitHub](https://github.com/cyber-hack789) •
 [Email](mailto:muhammedjafarshaikh30@gmail.com)
 
@@ -139,6 +139,6 @@ If you're looking for a developer who values clean code, thoughtful design, and 
 
 🌐 Portfolio: YOUR_PORTFOLIO_URL
 
-💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohammad-jafar-shaikh-716a67342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+💼 LinkedIn:(https://www.linkedin.com/in/mohammad-jafar-shaikh-716a67342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ⭐ Thanks for visiting my GitHub profile!
